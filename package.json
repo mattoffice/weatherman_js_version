@@ -1,0 +1,18 @@
+{
+  "name": "weatherman_js_version",
+  "version": "1.0.0",
+  "description": "javascript version of weatherman",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moffice",
+  "license": "ISC",
+  "devDependencies": {
+    "amadeus": "^4.0.0",
+    "mocha": "^7.1.1"
+  }
+}
